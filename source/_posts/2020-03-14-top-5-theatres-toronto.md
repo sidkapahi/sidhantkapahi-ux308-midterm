@@ -4,7 +4,7 @@ title: Top 5 Theatres - Toronto
 lang: en
 date: '2020-03-14T02:44:45-04:00'
 thumbnail: /images/uploads/peter-lewicki-wfh650c1ohu-unsplash.jpg
-terms: 'Theatres, Toronto, Plays. Drama, Actors, Acting, Lighting, Production'
+terms: 'Theatres, Toronto, Plays, Drama, Actors, Acting, Lighting, Production'
 ---
 In my experience, this is a list of the 5 best theatres to attend drama's and plays in Toronto.
 
